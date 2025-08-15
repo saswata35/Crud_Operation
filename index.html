@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Login</title>
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Login</h2>
+    <form id="loginForm">
+      <div class="form-group">
+        <label>Username</label>
+        <input type="text" id="loginUsername" required />
+      </div>
+      <br>
+      <div class="form-group">
+        <label>Password</label>
+        <input type="password" id="loginPassword" required />
+      </div>
+      <p class="message error" id="loginMessage"></p>
+      <button type="submit">Login</button>
+      <a href="register.html">Don't have an account? Register</a>
+    </form>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
