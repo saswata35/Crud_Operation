@@ -3,7 +3,5 @@ RUD operations refer to the four basic functions of persistent storage: Create (
 
 Github:-https://github.com/saswata35/Crud_Operation.git
 
-Repo:-
-
 Vercel:-https://crud-operation-iw7d.vercel.app/
 
